@@ -5,8 +5,8 @@
     "license": "MIT",
     "dependencies": {
         "core": "*",
-        "neopixel": "github:kittenbot/pxt-neopixel#v0.6.13"
-        "neopixel": "github:kittenbot/pxt-neopixel#v0.6.13"
+        "neopixel": "github:song2222/pxt-neopixel"
+        "main": "github:song2222/OSOYOO_IR"
     },
     "files": [
         "README.md",
